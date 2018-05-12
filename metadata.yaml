@@ -1,0 +1,31 @@
+_repo: McGuffey-s-Sixth-Eclectic-Reader_16751
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McGuffey, William Holmes
+    birthdate: 1800
+    deathdate: 1873
+    gutenberg_agent_id: '5671'
+    url: http://www.gutenberg.org/2009/agents/5671
+    wikipedia: http://en.wikipedia.org/wiki/William_Holmes_McGuffey
+description: Since 1836, children have been delighted by these volumes filled with
+  exotic adventures, exciting stories, beautiful poems, and funny fables. The Sixth
+  Eclectic Reader includes selections from Patrick Henry, Sir Walter Scott, Elizabeth
+  Barrett Browning, and William Shakespeare.
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2005-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16751'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'Readers'
+title: McGuffey's Sixth Eclectic Reader
+url: http://www.gutenberg.org/ebooks/16751
